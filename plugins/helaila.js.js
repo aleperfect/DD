@@ -9,9 +9,9 @@ let handler = async (m, { conn, text, command }) => {
   export default handler
   
   global.helaila = [
-"https://i.imgur.com/nZcfBBy.jpeg",
-"https://i.imgur.com/8izhGnd.jpeg",
-"https://i.imgur.com/cTcSVMy.jpeg",
+"https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo",
+"https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo",
+"https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo",
 "https://i.imgur.com/yrCaPu3.jpeg",
 "https://i.imgur.com/ijHifdi.jpeg",
 "https://i.imgur.com/HdKysJK.jpeg",
@@ -32,7 +32,7 @@ let handler = async (m, { conn, text, command }) => {
 "https://i.imgur.com/91znTwr.jpeg",
 "https://i.imgur.com/yTgr3nd.jpeg",
 "https://i.imgur.com/0ysnO16.jpeg",
-"https://i.imgur.com/FHQp6n9.jpeg",
+"https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo",
 "https://i.imgur.com/Q5SaPLT.jpeg",
 "https://i.imgur.com/w2Xvwh1.jpeg",
 "https://i.imgur.com/AdvGPvt.jpeg",

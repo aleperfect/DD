@@ -2,12 +2,12 @@
 /* [❗]                      [❗]                      [❗] */  
 /*                                                       */ 
 /*         |- [ ⚠ ] - CODIGO OFUSCADO - [ ⚠ ] -|        */
-/*     —◉ DESAROLLADO POR OTOSAKA:                       */
-/*     ◉ Otosaka (https://github.com/6otosaka9)          */
-/*     ◉ Número: wa.me/51993966345                       */
+/*     —◉ DESAROLLADO POR Ale:                       */
+/*     ◉ Alexander (https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo)          */
+/*     ◉ Número: wa.me/51906830557                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ BrunoSobrino (https://github.com/BrunoSobrino)  */
+/*     ◉ BrunoSobrino (https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /*-------------------------------------------------------*/
