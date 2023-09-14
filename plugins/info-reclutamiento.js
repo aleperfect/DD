@@ -1,10 +1,10 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let texto1 = `┌「⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍」
+let texto1 = `┌「𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃」
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
 ├❏ hola bien Bienvenid@s 
-├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
+├𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃
 ├❏──ׂ─ׂ─ׂ─ׂ───
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫ ⇶Presentarse
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫ ⇶con foto 
@@ -49,12 +49,12 @@ let texto1 = `┌「⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍」
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫ яєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.」
-https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x
+https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
 └────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo` },
 'mimetype': `application/${document}`,
-'fileName': `🍀⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍✨`,
+'fileName': `𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
@@ -67,7 +67,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
